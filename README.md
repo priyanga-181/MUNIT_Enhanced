@@ -7,5 +7,5 @@
 
 ## Overview
 
-This project explores **image translation** using **GAN** and lora finetuned **diffusion model**, a powerful generative framework for creating high-quality and diverse outputs. Diffusion models have emerged as state-of-the-art for various image generation tasks, providing versatility and control in domains like domain transfer, super-resolution, and style translation.
+This project explores comparison of **image translation** using [MUNIT](https://arxiv.org/pdf/1804.04732) **GAN** and lora finetuned **diffusion model**, powerful generative frameworks for creating high-quality and diverse outputs. Diffusion models have emerged as state-of-the-art for various image generation tasks, providing versatility and control in domains like domain transfer, super-resolution, and style translation.
 
