@@ -10,4 +10,5 @@
 This project explores comparison of **image translation** using [MUNIT](https://arxiv.org/pdf/1804.04732) **GAN** and lora finetuned **diffusion model**, powerful generative frameworks for creating high-quality and diverse outputs. Diffusion models have emerged as state-of-the-art for various image generation tasks, providing versatility and control in domains like domain transfer, super-resolution, and style translation.
 
 Reference: https://arxiv.org/abs/1804.04732
+
 https://github.com/NVlabs/MUNIT
